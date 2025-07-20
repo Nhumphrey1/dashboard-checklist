@@ -1,0 +1,28 @@
+# Cursor Rules for Dashboard Checklist Project
+
+## Project Overview
+This is a modern dashboard application with checklist functionality built using vanilla HTML, CSS, and JavaScript.
+
+## Git Integration
+- Repository: https://github.com/Nhumphrey1/dashboard-checklist
+- Branch: master
+- Remote: origin
+
+## File Structure
+- `index.html` - Main application file
+- `styles.css` - Styling and animations
+- `script.js` - JavaScript functionality
+- `README.md` - Project documentation
+
+## Development Guidelines
+- Use semantic HTML
+- Follow modern CSS practices
+- Write clean, documented JavaScript
+- Test on multiple browsers
+- Ensure responsive design
+
+## Git Workflow
+- Commit frequently with descriptive messages
+- Use conventional commit format when possible
+- Test changes before pushing
+- Keep the repository clean and organized 
